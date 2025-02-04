@@ -648,6 +648,7 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     android.hardware.gnss@2.1-impl-qti \
+    consumerir.kona \
     vendor.qti.gnss@4.0-impl \
     libbatching \
     libgeofencing \
